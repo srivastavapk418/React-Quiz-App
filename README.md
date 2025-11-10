@@ -6,7 +6,7 @@ This project uses a local fake API (Vercel’s Serverless Functions) to serve qu
 ---
 
 ## 🔗 Live demo
-
+[➡️ Click to view live demo](https://react-quiz-app-one-gilt.vercel.app/)
 
 ---
 

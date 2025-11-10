@@ -29,7 +29,10 @@ This project uses a local fake API (Vercel’s Serverless Functions) to serve qu
 ---
 
 ## 📸 Screenshots
-
+<img width="1920" height="850" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/547753d8-35c3-4d36-90c1-d8183be319e3" />
+<img width="1920" height="852" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/fb048c17-31db-4b14-9ecd-5ea5636c2956" />
+<img width="1920" height="848" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/423ffa03-2f7d-43d5-a518-4172bf76211e" />
+<img width="1920" height="861" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/a17f1c8d-26f5-4385-a201-09ec72e618a9" />
 
 ---
 
